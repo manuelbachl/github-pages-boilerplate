@@ -15,7 +15,13 @@
     "type": "git",
     "url": "https://github.com/FinndropStudios/GifRocket.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "angled-edges": "^2.0.0",
+    "bootstrap": "^4.1.1",
+    "github-api": "^3.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
   "devDependencies": {
     "babel-core": "6.26.3",
     "babel-loader": "7.1.4",
